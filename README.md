@@ -1,16 +1,21 @@
-## Hi there 👋
+# Albert Asawaroengchai
 
-<!--
-**teerakarna/teerakarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Platform and DevOps engineer with nearly 20 years across bare-metal, HPC, and
+cloud-native production systems. I build secure, resilient platforms on Kubernetes,
+GitOps, and the Cloud Native stack, and I lead teams to ship.
 
-Here are some ideas to get you started:
+- Focus: Kubernetes, GitOps, platform engineering, SRE
+- Stack: AWS, GCP, Terraform, Helm, ArgoCD, Flux, Istio, CI/CD, Go, Python, Bash
+- Based in Bangkok, Thailand
+- Blog: https://teerakarna.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you will find here
+
+- [gitops-demo](https://github.com/teerakarna/gitops-demo): a GitOps system.
+  Terraform (kind + ArgoCD), dev/preprod/prod, and ephemeral per-PR environments.
+- [service-demo](https://github.com/teerakarna/service-demo): a Go API with a
+  distroless image, a Helm chart, and a full CI/CD pipeline.
+- [openclaw-journey](https://github.com/teerakarna/openclaw-journey): Terraform and
+  Ansible to deploy on a hardened Debian VM.
+
+Each demo runs locally and is written up on the blog, so you can follow along.
