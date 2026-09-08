@@ -6,7 +6,6 @@ GitOps, and the Cloud Native stack, and I lead teams to ship.
 
 - Focus: Kubernetes, GitOps, platform engineering, SRE
 - Stack: AWS, GCP, Terraform, Helm, ArgoCD, Flux, Istio, CI/CD, Go, Python, Bash
-- Based in Bangkok, Thailand
 - Blog: https://teerakarna.github.io
 
 ## What you will find here
